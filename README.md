@@ -40,7 +40,6 @@
 | [**분리수거 실천 예측과 요인 해석**](링크) | KGSS 조사 데이터로 분리수거 실천 여부를 예측하는 4개 모델(LR·RF·XGBoost·DNN)을 비교하고 SHAP으로 결정요인 해석. KOSSDA 시각화 공모전 출품작을 발전시켜 **KIPS ACK 2026 논문 게재** | Python, XGBoost, TensorFlow, SHAP |
 | [**흉부 X-ray 지름길 학습 탐지**](링크) | 폐렴 분류 CNN이 병변이 아닌 엉뚱한 단서에 의존하는지 여러 XAI 기법으로 교차 검증 | TensorFlow, Grad-CAM 등 XAI |
 | [**지하철 승하차 데이터 기반 옥외광고 입지 전략**](링크) | 서울 지하철 승하차 데이터를 long format으로 재구조화하고 SQL로 분석해 광고 집행 역 제안 | SQL, SQLite, DBeaver |
-| [**MovieLens 추천시스템 실습**](링크) | 평균 평점 baseline부터 TF-IDF 콘텐츠 기반 추천까지 구현하고 MAE·RMSE·NDCG로 평가, Gradio 데모 | Python, scikit-learn, Gradio |
 
 <br>
 
