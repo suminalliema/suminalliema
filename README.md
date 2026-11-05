@@ -46,18 +46,17 @@
 
 ## 📄 Publications
 
-- **마수민**, 권범. "[논문 제목]." *한국정보처리학회 2026 추계학술발표대회(ACK 2026) 학부생 논문경진대회*, 2026.
+- 마수민, 권범. "인구사회학적 변수를 이용한 분리수거 상시 실천 응답의 예측 가능성" *한국정보처리학회 2026 추계학술발표대회(ACK 2026), 2026.
 
 <br>
 
 ## 🏅 Activities
 
 - **2026** 롯데 밸유 for ESG 5기 — 팀장, 시각장애인의 예술·문화 접근성 프로젝트
-- **2026** KOSSDA 대학생 데이터 시각화 공모전 출품 — 「'분리수거의 나라'는 어디로 가는가?」
 
 <br>
 
 ## 📫 Contact
 
-- Email: suminalliema@gmail.com / 20241941@dongduk.ac.kr
-- Instagram (연구 기록): [@haema__lab](링크)
+- Email: suminalliema@gmail.com
+- Instagram (연구 기록): [@haema__lab](https://www.instagram.com/hema__lab?dlrf=MTYzdnhpdGNyM2lidg%3D%3D&utm_source=qr)
